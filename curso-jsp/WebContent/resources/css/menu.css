@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.menu{
+	
+	 width: 50%;
+    height: 30px;
+    float: right;
+    color: aliceblue;
+}
